@@ -3,7 +3,7 @@
   "author": "Houdou <houdou.pt@gmail.com>",
 	"description": "Cerebro plugin to find relevant gitmoji for commit message",
 	"repository": "Houdou/cerebro-plugin-gitmoji",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "cerebro-tools": "^0.1.8",
     "cerebro-ui": "^0.0.16",
