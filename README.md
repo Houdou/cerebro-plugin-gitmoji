@@ -1,5 +1,5 @@
 ## cerebro-plugin-gitmoji
-The plugin to help you select the gitmoji in lighting speed.
+The plugin to help you select the gitmoji in lightning speed.
 
 ### Usage
 
